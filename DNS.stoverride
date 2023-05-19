@@ -89,7 +89,7 @@ dns:
     "setmeup.arubanetworks.com": system # Aurba Router
     "www.miwifi.com": system # 小米 Mi WiFi Router
     "miwifi.com": system # 小米 Mi WiFi Router
-    "*.molamooo.icu": system # 局域网nas
+    "+.molamooo.icu": system # 局域网nas
     "mediarouter.home": system # 华为 Huawei Router
     "tplogin.cn": system # TP-Link Router
     "tplinklogin.net": system # TP-Link Router
