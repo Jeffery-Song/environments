@@ -1,0 +1,3 @@
+dns:
+    nameserver-policy:
+        '*.molamooo.icu' : 'system'
